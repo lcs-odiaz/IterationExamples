@@ -16,6 +16,7 @@ for value in 1...4 {
 }
 sum         // equals 10 at this point
 
+
 /*:
  ### Skipping values in a range
  The *stride* function can be combined with a *for-in* loop to move through a range of numbers, while also skipping some values.
